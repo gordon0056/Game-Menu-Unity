@@ -20,7 +20,6 @@ The Sound folder has been created and the sound required for pressing a button i
 7. Created a Horizontal Layout Group for the “give up” and “continue” buttons so that the objects located on them move by a certain distance in pixels. And for the window with bonuses, a Grid Layout was created and the sprite was separately processed for expansion in case the variety is replenished with bonuses. Prefabs have also been created for these objects for editing changes.
 8. A script was prepared and a config was created to edit the price value and quantity of bonuses, as well as items in the pop-up window, the parameters of the windows in which the text for translation is located were checked and adjusted.
 9. A repository for this project was created and uploaded to it.
-Thus, the stated conditions of the task were realized in full.
 
 RU
 Задание на технического дизайнера:
@@ -44,4 +43,3 @@ RU
 7. Созданы Horizontal Layout Group для кнопки «сдаться» и «продолжить», чтобы объекты, находящиеся на них, сдвигались на определённое расстояние в пикселях. А для окна с бонусами создан Grid Layout и отдельно обработан спрайт для расширения в случае пополнения разнообразия бонусами. Создан также Prefabs для данных объектов для редактирования изменений.
 8. Подготовлен скрипт и создан конфиг для редактирования значения цены и количества бонусов, а также предметов в всплывающем окне, проверены и отрегулированы параметры окон, в которых находится текст для перевода.
 9. Создан репозиторий для данного проекта и выгружен в него. 
-Таким образом, поставленные условия задачи были реализованы в полном размере.
